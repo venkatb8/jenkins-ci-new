@@ -8,8 +8,8 @@ public class AppTest{
 	public void demo(){
 		
 		System.out.println("this is jenkins new");
-		System.out.println("this is jenkins new with web hook");
-		
+		System.out.println("this is jenkins new with web hook ");
+		System.out.println("this is jenkins new with web hook1 ");
 	}
 
 }
